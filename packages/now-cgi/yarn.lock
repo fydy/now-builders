@@ -15,7 +15,7 @@
 
 "@zeit/best@0.4.3":
   version "0.4.3"
-  resolved "http://registry.npmjs.org/@zeit/best/-/best-0.4.3.tgz#eaebdfa8b24121a97b1753501ea8c9330d549b30"
+  resolved "https://registry.npmjs.org/@zeit/best/-/best-0.4.3.tgz#eaebdfa8b24121a97b1753501ea8c9330d549b30"
   dependencies:
     arg "1.0.0"
     chalk "2.3.1"
@@ -144,7 +144,7 @@ call-me-maybe@^1.0.1:
 
 chalk@2.3.1:
   version "2.3.1"
-  resolved "http://registry.npmjs.org/chalk/-/chalk-2.3.1.tgz#523fe2678aec7b04e8041909292fe8b17059b796"
+  resolved "https://registry.npmjs.org/chalk/-/chalk-2.3.1.tgz#523fe2678aec7b04e8041909292fe8b17059b796"
   dependencies:
     ansi-styles "^3.2.0"
     escape-string-regexp "^1.0.5"
@@ -194,9 +194,10 @@ debug@^2.2.0, debug@^2.3.3:
   dependencies:
     ms "2.0.0"
 
-decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+decode-uri-component@0.2.2, decode-uri-component@^0.2.0:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 define-property@^0.2.5:
   version "0.2.5"
@@ -704,7 +705,7 @@ rmfr@2.0.0:
 
 safe-regex@^1.1.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
+  resolved "https://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
   dependencies:
     ret "~0.1.10"
 
